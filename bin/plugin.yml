@@ -1,0 +1,9 @@
+main: io.github.cishero6.Main
+author: cishero6
+version: 1.0.0
+name: BedHunt
+api-version: 1.18
+
+commands:
+  game:
+  set:
